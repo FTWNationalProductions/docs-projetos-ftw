@@ -1,32 +1,13 @@
-# Mintlify Starter Kit
+# Documentação de Projetos - FTW Tech
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+Usamos destes repositorio para adicionar:
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+- Perfil pessoal de cada membro da equipe e suas habilidades.
+- Ideias executadas e seus repositorios, dando creditos aos membros.
+- Ideias não executadas e que estão em planejamento.
+- Tutoriais de como as nossas tecnologias funcionam.
+- Indicies de beneficios a sociedade ou ideias enviadas a campo.
 
-### Development
+### Uso das nossas tecnologias só é permitido na seguinte forma:
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
-
-```
-npm i -g mintlify
-```
-
-Run the following command at the root of your documentation (where docs.json is)
-
-```
-mintlify dev
-```
-
-### Publishing Changes
-
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
-
-#### Troubleshooting
-
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+Todas as tecnologias são de propriedade do grupo e seus membros, podendo ser usadas sem fins lucrativos para iniciativas que vão de encontro ao beneficio da sociedade.
