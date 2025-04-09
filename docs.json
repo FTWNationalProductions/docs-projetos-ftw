@@ -4,10 +4,10 @@
   "name": "FTWNationalProductions",
   "colors": {
     "primary": "#491049",
-    "light": "#07C983",
+    "light": "#491030",
     "dark": "#15803D"
   },
-  "favicon": "logo/ftw_icon.png",
+  "favicon": "l491030ogo/ftw_icon.png",
   "navigation": {
     "tabs": [
       {
