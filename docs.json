@@ -7,7 +7,7 @@
     "light": "#491030",
     "dark": "#15803D"
   },
-  "favicon": "l491030ogo/ftw_icon.png",
+  "favicon": "logo/ftw_icon.png",
   "navigation": {
     "tabs": [
       {
@@ -21,8 +21,10 @@
               "sobre-pessoal/pedromartinazzo",
               "sobre-pessoal/lucasmonte"
             ]
-          },
-        {
+          }
+        ]
+      },
+      {
         "tab": "Projetos",
         "groups": [
           {
