@@ -22,35 +22,19 @@
               "sobre-pessoal/lucasmonte"
             ]
           },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
+        {
+        "tab": "Projetos",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Projetos - Docs",
             "pages": [
-              "api-reference/introduction"
+              "projetos/introduction"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Projetos",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "projetos/ecoscan"
             ]
           }
         ]
